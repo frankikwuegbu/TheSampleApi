@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\frank.io\\source\\repos\\thesampleapiapp\\thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\frank.io\\source\\repos\\thesampleapiapp\\thesampleapi\\startup\\openapiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\startup\\openapiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\frank.io\\source\\repos\\thesampleapiapp\\thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\frank.io\\source\\repos\\thesampleapiapp\\thesampleapi\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9828F80-09E9-4524-AF29-E2786823934A}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RootEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Endpoints\\RootEndpoints.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\Endpoints\\RootEndpoints.cs",
+              "ToolTip": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Endpoints\\RootEndpoints.cs",
+              "RelativeToolTip": "TheSampleApi\\Endpoints\\RootEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:44:05.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependenciesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "ToolTip": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "RelativeToolTip": "TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:05:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenApiConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Startup\\OpenApiConfiguration.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\Startup\\OpenApiConfiguration.cs",
+              "ToolTip": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Startup\\OpenApiConfiguration.cs",
+              "RelativeToolTip": "TheSampleApi\\Startup\\OpenApiConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:26:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Program.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\Program.cs",
+              "ToolTip": "C:\\Users\\frank.io\\source\\repos\\TheSampleApiApp\\TheSampleApi\\Program.cs",
+              "RelativeToolTip": "TheSampleApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:21:04.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
