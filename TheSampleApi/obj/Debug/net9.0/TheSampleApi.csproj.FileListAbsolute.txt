@@ -32,3 +32,5 @@ C:\Users\frank.io\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\ref
 C:\Users\frank.io\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\TheSampleApi.pdb
 C:\Users\frank.io\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\TheSampleApi.genruntimeconfig.cache
 C:\Users\frank.io\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\ref\TheSampleApi.dll
+C:\Users\frank.io\source\repos\TheSampleApiApp\TheSampleApi\bin\Debug\net9.0\Data\coursedata.json
+C:\Users\frank.io\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\TheSampleApi.sourcelink.json
